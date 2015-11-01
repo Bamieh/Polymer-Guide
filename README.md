@@ -1,13 +1,13 @@
 # Polymer Guide
-	![Polymer Logo][polymer-logo]
+![Polymer Logo][polymer-logo]
 
 ## Table of Contents
-	1. [Basics](#Basics)
-	1. [Contributors](#contributors)
-	1. [License](#license)
+1. [Basics](#Basics)
+1. [Contributors](#contributors)
+1. [License](#license)
 
 ##Basics
-	- [1.1] (#1.1) <a name="1.1"></a> **Attributes**: Default and Custom attributes.
+- [1.1] (#1.1) <a name="1.1"></a> **Attributes**: Default and Custom attributes.
 
 ```HTML
 	<hello-world name="Bamieh"></hello-world> <!-- Hello Bamieh -->
