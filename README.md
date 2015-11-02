@@ -90,6 +90,8 @@
 1. [The Polymer Summit 2015](https://www.youtube.com/watch?v=ZDjiUmx51y8&list=PLNYkxOF6rcICdISJclfQhj2S8QZGjXV8J&index=3)
 2. [LEVELup tuts](http://leveluptuts.com/tutorials/polymer-tutorials/){:target="_blank"}
 
+3. <a href="http://leveluptuts.com/tutorials/polymer-tutorials/" target="_blank">Test</a>
+
 ##Contributors
 
 - [View Contributors](https://github.com/Bamieh/Polymer-Guide/graphs/contributors)
