@@ -87,10 +87,10 @@
 **[⬆ back to top](#table-of-contents)**
 
 ##References
-1. [The Polymer Summit 2015](https://www.youtube.com/watch?v=ZDjiUmx51y8&list=PLNYkxOF6rcICdISJclfQhj2S8QZGjXV8J&index=3)
-2. [LEVELup tuts](http://leveluptuts.com/tutorials/polymer-tutorials/){:target="_blank"}
 
-3. <a href="http://leveluptuts.com/tutorials/polymer-tutorials/" target="_blank">Test</a>
+1. <a href="https://www.youtube.com/watch?v=ZDjiUmx51y8&list=PLNYkxOF6rcICdISJclfQhj2S8QZGjXV8J&index=3" target="_blank">The Polymer Summit 2015</a>
+
+2. <a href="http://leveluptuts.com/tutorials/polymer-tutorials/" target="_blank">Level up tuts</a>
 
 ##Contributors
 
