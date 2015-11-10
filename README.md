@@ -82,6 +82,9 @@
 
 - [1.5](#1.5) <a name="1.5"></a> **Polymer Data Binding Vs Angular Data Binding**
 
+- [1.6](#1.6) <a name="1.6"></a> **Debounce**
+http://codingwithgerwin.blogspot.com/2015/06/polymer-quicktip-debounce.html
+
 
 
 **[⬆ back to top](#table-of-contents)**
@@ -90,7 +93,7 @@
 
 1. <a href="https://www.youtube.com/watch?v=ZDjiUmx51y8&list=PLNYkxOF6rcICdISJclfQhj2S8QZGjXV8J&index=3" target="_blank">The Polymer Summit 2015</a>
 
-2. <a href="http://leveluptuts.com/tutorials/polymer-tutorials/" target="_blank">Level up tuts</a>
+2. <a href="http://leveluptuts.com/tutorials/polymer-tutorials/" target="_blank">Level Up tuts</a>
 
 ##Contributors
 
